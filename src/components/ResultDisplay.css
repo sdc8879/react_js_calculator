@@ -1,0 +1,14 @@
+.displayResult{
+    list-style-type: none;
+    border: 2px solid blue;
+    margin: 0px;
+    padding: 0px;
+    text-align: right;
+}
+
+.displayInput{
+    font-size: 40px;
+}
+.displayOutput{
+    font-size: 40px;
+}
